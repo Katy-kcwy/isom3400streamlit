@@ -8,7 +8,7 @@ import numpy as np
 # -------------------------------
 # Title and Description
 # -------------------------------
-st.title("Business Sales Dashboard")
+st.title("Katy's Sales Dashboard")
 st.write("Analyse monthly sales data interactively!")
 
 # -------------------------------
